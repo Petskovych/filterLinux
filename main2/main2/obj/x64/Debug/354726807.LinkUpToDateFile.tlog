@@ -1,0 +1,1 @@
+g++ -o "/home/qwerty/projects/main2/bin/x64/Debug/main2.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/qwerty/projects/main2/obj/x64/Debug/FileName.o
